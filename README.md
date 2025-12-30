@@ -67,7 +67,7 @@ sudo apt install valac meson ninja-build pkg-config \
 
 2. **Clone and build**:
 ```bash
-git clone https://github.com/your-repo/NovaBar.git
+git clone https://github.com/novik133/NovikBar.git
 cd NovaBar
 meson setup build
 ninja -C build
